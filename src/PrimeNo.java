@@ -15,5 +15,6 @@ public class PrimeNo {
         else{
             System.out.println("Not a Prime No");
         }
+
     }
 }
