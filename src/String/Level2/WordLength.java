@@ -1,7 +1,7 @@
 package String.Level2;
 import java.util.*;
 
-public class Q3_WordLength {
+public class WordLength {
 
     static String[][] wordLength(String[] words) {
 
